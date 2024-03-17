@@ -1,0 +1,3 @@
+[submodule "Workshop2/cohorts/2024/workshops/rising-wave"]
+	path = Workshop2/cohorts/2024/workshops/rising-wave
+	url = git@github.com:DataTalksClub/data-engineering-zoomcamp.git
