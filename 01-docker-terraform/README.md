@@ -6,3 +6,7 @@ In this module we covered the following topics:
 - Running Postgres locally with Docker
 - Setting up infrastructure on GCP with Terraform
 - Preparing the environment for the course
+
+
+
+[Module Link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/01-docker-terraform)
