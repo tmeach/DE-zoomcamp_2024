@@ -6,3 +6,6 @@ In this module we covered the following topics:
 - BigQuery best practices
 - Internals of BigQuery
 - BigQuery Machine Learning
+
+
+[Module Link](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/03-data-warehouse)
